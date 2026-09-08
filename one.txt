@@ -1,3 +1,4 @@
 # git-journey
 I am learning git 
 One
+i love eating rice
